@@ -14,6 +14,7 @@ Install and run e-commerce app with yarn, go to the application' folder, then go
 ```
     
 ## Demo
+![e-commerce-app](https://user-images.githubusercontent.com/30661399/149667143-84e77a7e-419c-4176-a9f7-13bbffa8605d.gif)
 
 https://portfolio-projects-repo-gifs-bucket.s3.ap-south-1.amazonaws.com/portfolio+repo+gifs/e-commerce-app.gif
 
